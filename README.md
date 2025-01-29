@@ -65,4 +65,18 @@ In this Milestone,
 - Compare the resulting hash to the stored hashed password.
 - If they match, the user is authenticated; if not, send an error.
 
+## Milestone 8: MongoDB connection
+In this Milestone,
 
+Create a Reusable Card Component in React to display product details like name, image, and price.
+Dynamically Render Product Cards using array mapping to show multiple products.
+Organize Layouts with CSS Grid or Flexbox for a clean homepage display.
+Enhance User Experience by making product browsing more visually appealing and structured.
+Ensure Reusability of the card component for use across different pages.
+
+## Milestone 9: MongoDB connection
+In thisMilestonne,
+
+Created a Product Form: Developed a form to input product details such as name, price, description, and images.
+Multiple Image Input: Implemented functionality to accept multiple images for each product.
+Basic Product Creation: This form allows for adding product details, which will eventually be saved to a database and displayed on the homepage.
