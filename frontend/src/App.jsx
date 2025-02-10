@@ -5,6 +5,8 @@ import HomePage from './pages/HomePage'
 import CreatePage from './pages/createPage'
 import MyProducts from './pages/myProduct'
 import {Routes,Route,BrowserRouter} from 'react-router-dom'
+import CreateProduct from './pages/createPage'
+import Cart from './pages/cart'
 
 
 function App() {
@@ -18,6 +20,8 @@ function App() {
         <Route path="/signup" element={<SignUpPage/>}/>
         <Route path='/create-product' element={<CreatePage/>}/>
         <Route path="/my-products" element={<MyProducts/>} />
+        <Route path='/create-product/:id' element={<CreateProduct/>} />
+        <Route path='/cart' element={<Cart/>} />
       </Routes>
     </BrowserRouter>
     </>

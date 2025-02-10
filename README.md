@@ -112,3 +112,23 @@ In this Milestone,
 - The user can give their email, and the products from that email can be seen.
 - We create a new page myProducts to show the products of the user.
 - We update product.js in the backend to create,save and show the product.
+
+## Milestone 13:
+In this Milestone,
+
+Write an endpoint that will update the existing data in MongoDB. Auto fill the form with previous data and give option to edit. We use router and post method. The entire data and also part of data can be changed. frontend we will add an edit button to the product card. When click on edit we will send the data to form and make it auto fill and have option to edit those data and save.
+
+## Milestone 14:
+In this Milestone,
+
+Write an endpoint that delete the product with specific ID from MongoDB. We use routers to delete the product In frontend we will add an delete button to the product card. When click on delete button we will send the product id to server endpoint. After deleting the product will be removed from user's page.
+
+## Milestone 15: Nav Bar
+In this Milestone,
+
+Creating and Nav component. Reusing the same component in multiple pages. Create an new Nav component with links to all pages: Home My-products Add product cart Adding the nav component to all the pages and make the navigations to all this pages smooth and easy. Making the Navbar responsive to all screen sizes.
+
+## SMilestone 16: New Product Page
+In this Milestone,
+
+Create an product info page that display all the product data and choose quantity and add to card button. New page to display each product. Adding quantity and add to card button.
